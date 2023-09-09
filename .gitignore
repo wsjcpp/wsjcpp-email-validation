@@ -1,3 +1,10 @@
+wsjcpp-email-validation
+tmp/*
+/.wsjcpp
+
+# Vim temp files
+*.swp
+
 # Prerequisites
 *.d
 
@@ -30,3 +37,5 @@
 *.exe
 *.out
 *.app
+
+
