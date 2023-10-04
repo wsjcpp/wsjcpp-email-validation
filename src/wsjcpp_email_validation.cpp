@@ -34,6 +34,7 @@ bool WsjcppEmailValidation::isValid(const std::string &sValue, std::string &sErr
         {"gmaik.com", "gmail.com"},
         {"gmial.com", "gmail.com"},
         {"gmal.com", "gmail.com"},
+        {"gmail.con", "gmail.com"},
         {"inbox.ry", "inbox.ru"},
         {"gamil.com", "gmail.com"},
         {"gmail.cpm", "gmail.com"},
